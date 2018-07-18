@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39ba6f58-ddc4-4cee-96e3-7dad61fc546f" name="dozer.childmind.org" url="http://dozer.childmind.org">
+        <fileTransfer host="dozer.childmind.org" port="22" rootFolder="/home/ccraddock/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
